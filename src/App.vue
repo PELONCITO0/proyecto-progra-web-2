@@ -1,5 +1,6 @@
 <script setup>
 import Boton from './components/ButtonApp.vue'
+import CardApp from './components/CardApp.vue'
 </script>
 
 <template>
@@ -10,6 +11,9 @@ import Boton from './components/ButtonApp.vue'
   </p>
 
   <Boton/>
+
+  <CardApp titulo="Componente reutilizable" texto="Esta tarjeta es un componente que recibe props y se puede reutilizar cuantas veces sea necesario." />
+  <CardApp titulo="Segundo ejemplo" texto="Cada instancia puede mostrar contenido distinto." />
 </template>
 
 <style scoped>
