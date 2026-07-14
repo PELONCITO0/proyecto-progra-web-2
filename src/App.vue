@@ -1,9 +1,11 @@
 <script setup>
 import Boton from './components/ButtonApp.vue'
 import CardApp from './components/CardApp.vue'
+import EncabezadoApp from './components/EncabezadoApp.vue'
 </script>
 
 <template>
+  <EncabezadoApp />
   <h1>Lo lograste!</h1>
   <p>
     Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
