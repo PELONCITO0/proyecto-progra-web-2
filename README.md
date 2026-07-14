@@ -36,3 +36,11 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Diseño de la Interfaz
+
+### Wireframe
+![Wireframe del listado de productos](src/assets/WireframeListadoProducto.png)
+
+### Mockup
+![Mockup del listado de productos](src/assets/MockupListadoProducto.png)
