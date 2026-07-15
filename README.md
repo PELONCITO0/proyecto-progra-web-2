@@ -62,3 +62,8 @@ npm run build
 
 #### Mockup
 ![Mockup del dashboard](src/assets/MockupDasboar.jpeg)
+#### Wireframe
+![Wireframe del login](src/assets/wireframelogin.png)
+
+#### Mockup
+![Mockup del login](src/assets/mockuplogin.png)
