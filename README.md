@@ -39,8 +39,26 @@ npm run build
 
 ## Diseño de la Interfaz
 
-### Wireframe
+### Listado de Productos
+
+#### Wireframe
 ![Wireframe del listado de productos](src/assets/WireframeListadoProducto.png)
 
-### Mockup
+#### Mockup
 ![Mockup del listado de productos](src/assets/MockupListadoProducto.png)
+
+### Administrador de Productos
+
+#### Wireframe
+![Wireframe del administrador de productos](src/assets/WireframeAdminstradorProductos..jpeg)
+
+#### Mockup
+![Mockup del administrador de productos](src/assets/MockaupAdminstradorProductos.jpeg)
+
+### Dashboard
+
+#### Wireframe
+![Wireframe del dashboard](src/assets/WireframeDashboar.jpeg)
+
+#### Mockup
+![Mockup del dashboard](src/assets/MockupDasboar.jpeg)
