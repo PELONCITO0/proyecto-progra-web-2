@@ -469,32 +469,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SCPC403\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SCPC403\\Desktop\\proyecto-progra-web-2-main\\BackendApi\\BackendApi.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\Denilson Rodriguez\\upds\\Programacion Web 2\\proyecto-progra-web-2\\BackendApi\\BackendApi.csproj",
       "projectName": "BackendApi",
-      "projectPath": "C:\\Users\\SCPC403\\Desktop\\proyecto-progra-web-2-main\\BackendApi\\BackendApi.csproj",
-      "packagesPath": "C:\\Users\\SCPC403\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SCPC403\\Desktop\\proyecto-progra-web-2-main\\BackendApi\\obj\\",
+      "projectPath": "C:\\Users\\USUARIO\\Desktop\\Denilson Rodriguez\\upds\\Programacion Web 2\\proyecto-progra-web-2\\BackendApi\\BackendApi.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USUARIO\\Desktop\\Denilson Rodriguez\\upds\\Programacion Web 2\\proyecto-progra-web-2\\BackendApi\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\SCPC403\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -549,7 +541,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
