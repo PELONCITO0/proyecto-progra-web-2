@@ -67,3 +67,9 @@ npm run build
 
 #### Mockup
 ![Mockup del login](src/assets/mockuplogin.png)
+
+#### Metodo-GET-ProduController-API
+![Mockup del login](src/assets/metodo-Get-PRODUCTO-CONTROLLER.png)
+
+#### Metodo-POST-ProduController-API
+![Mockup del login](src/assets/metodo-POST-PRODUCTO-CONTROLLER.png)
