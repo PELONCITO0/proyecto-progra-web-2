@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
- 
+using backendApi.Models;
+
 namespace BackendApi.Controllers;
  
 [ApiController]
@@ -24,11 +25,31 @@ public class UsuarioController : ControllerBase
         var usuario = new { Id = id, Username = "usuario.ejemplo", Rol = "Vendedor" };
         return Ok(usuario);
     }
- 
-    [HttpPost("login")]
-    public IActionResult Login([FromBody] object datosLogin)
+    [HttpPost]
+    public IActionResult CrearUsuario([FromBody] Usuario usuario)
     {
-        var usuario = new { Id = 1, Username = "cristhian", Rol = "Administrador" };
-        return Ok(usuario);
+     return Ok (new
+     {
+      mensaje= "Usuario creado exitosamente",usuario   
+     });   
+    }
+    [HttpPut("{id}")]
+    public IActionResult ActualizarUsuario(int id, [FromBody] Usuario usuario)
+    {
+        return Ok(new
+        {
+            mensaje = "Usuario actualizado exitosamente",
+            usuario
+        });
+    }
+    [HttpDelete("{id}")]
+ 
+    public IActionResult EliminarUsuario(int id)
+    {
+        
+        return Ok(new 
+        {
+            mensaje = $"Usuario con ID {id} eliminado exitosamente"
+        });
     }
 }

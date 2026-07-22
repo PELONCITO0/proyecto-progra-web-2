@@ -73,3 +73,18 @@ npm run build
 
 #### Metodo-POST-ProduController-API
 ![Mockup del login](src/assets/metodo-POST-PRODUCTO-CONTROLLER.png)
+HEAD
+#### Mockup
+![API](src/assets/Imagen1.png)
+
+#### Mockup
+![GET](src/assets/Imagen2.png)
+
+#### Mockup
+![POST](src/assets/Imagen3.png)
+
+#### Mockup
+![PUT](src/assets/Imagen4.png)
+
+#### Mockup
+![DELET](src/assets/Imagen5.png)
